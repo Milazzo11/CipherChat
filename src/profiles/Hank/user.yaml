@@ -1,0 +1,10 @@
+# =======================
+# User configuration file
+# =======================
+
+
+tag: Hank
+# message name tag
+
+auth: DISCORD.AUTH.TOKEN
+# account authorization token

@@ -1,0 +1,17 @@
+CURRENT: Version 1.0.0
+
+
+Version 2.0.0 TODO:
+
+- fix any depricated (utcnow and other) instances
+
+- implement secure deletion for sensitive files (such as ERROR LOG and CHANNELS)
+
+- move back to using random IV values for local file encryption
+
+- add HMAC authentication to messages
+
+- add signing system to asymm. key exchange
+
+- make server name flags (eg. "[Eric + Butters]") optional
+  "[]" non-name-leak option

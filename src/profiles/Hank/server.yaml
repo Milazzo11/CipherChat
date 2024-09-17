@@ -1,0 +1,18 @@
+# =========================
+# Server configuration file
+# =========================
+
+
+channels: [
+
+    1217456371700763733
+    
+]
+# encrypted message channel IDs
+
+webhooks: [
+
+    https://discord.com/api/webhooks/1207513918306525184/OqnpTvrqaIsG19ez9R3eVPOMM6RroJRAigAg2jVFcTssmcl4PCtIaa1G0Aql5yGJagdx
+
+]
+# encrypted message webhook links
