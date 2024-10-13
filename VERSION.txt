@@ -5,6 +5,8 @@ Version 2.0.0 TODO:
 
 - fix any depricated (utcnow and other) instances
 
+- probably look for instances where relative imports can be used
+
 - implement secure deletion for sensitive files (such as ERROR LOG and CHANNELS)
 
 - move back to using random IV values for local file encryption
